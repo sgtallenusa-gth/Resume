@@ -1,74 +1,43 @@
-# Eli Allen - Network Engineering Career Portfolio
+# Elihu Allen Career Portfolio
 
-GitHub: [sgtallenusa-gth](https://github.com/sgtallenusa-gth)
+Principal Solutions Architect | Infrastructure Transformation Leader | Carrier Networks | Automation | AI Operations | Military Leadership
 
-## Professional Focus
+This repository is the working source for my professional career portfolio, resume materials, leadership philosophy, engineering playbook, and public-safe case studies.
 
-Network engineer specializing in ISP/WISP operations, MikroTik routing, customer-premises provisioning, wireless service design, DHCP/RADIUS workflows, and operational automation.
+## Purpose
 
-This repository is a career portfolio hub. It is designed to show practical engineering experience, architecture thinking, troubleshooting ability, and documentation quality.
+This is a personal professional portfolio. It documents career history, leadership principles, engineering philosophy, architecture case studies, and resume source material in a version-controlled format.
 
-## Core Strengths
+## Guiding Principle
 
-- MikroTik RouterOS engineering and customer-premises router configuration
-- ISP/WISP network operations and tower-site service delivery
-- VLAN design for paid and free service segmentation
-- DHCP, RADIUS, TR-069/CWMP, and subscriber provisioning concepts
-- Nautobot-based infrastructure documentation and automation planning
-- VISP.net operational workflows and customer service state mapping
-- Wireless SSID/service design for multi-interface customer devices
-- Technical documentation, rollout planning, and migration strategy
+> You can't teach what you don't know, and you can't lead where you won't go.
 
-## Featured Portfolio Areas
+## Core Themes
 
-### 1. MikroTik Provisioning Platform
-A conceptual and implementation portfolio for automating customer router provisioning across ISP/WISP environments.
+- Mission-focused technology leadership
+- Carrier-scale network architecture
+- Infrastructure automation
+- AI-assisted operations
+- Disaster recovery and business continuity
+- Military-informed risk management
+- Team development and mentorship
+- Customer-facing solution engineering
 
-Key concepts:
-- MikroTik CPE provisioning
-- Paid/free service VLAN design
-- DHCP decision flow
-- RADIUS authorization model
-- VISP.net field mapping
-- Nautobot inventory integration
-- Tower-by-tower migration planning
-
-See: [`projects/mikrotik-provisioning-platform.md`](projects/mikrotik-provisioning-platform.md)
-
-### 2. DHCP + RADIUS Subscriber Decision Flow
-A technical reference showing how subscriber state can drive network access decisions.
-
-See: [`projects/dhcp-radius-visp-decision-flow.md`](projects/dhcp-radius-visp-decision-flow.md)
-
-### 3. Nautobot DNS / Infrastructure Automation
-A portfolio case study for integrating network source-of-truth data with DNS and automation workflows.
-
-See: [`projects/nautobot-dns-automation.md`](projects/nautobot-dns-automation.md)
-
-## Resume Materials
-
-This repo can also hold resume versions tailored to specific roles.
-
-Suggested structure:
+## Repository Structure
 
 ```text
-resume/
-  Eli_Allen_Network_Engineer_Resume.md
-  Eli_Allen_ISP_WISP_Resume.md
-  Eli_Allen_Automation_Network_Engineer_Resume.md
+├── 00-executive-summary.md
+├── 01-career-timeline.md
+├── 02-leadership-philosophy.md
+├── 03-engineering-philosophy.md
+├── 04-operating-principles.md
+├── 05-military-career.md
+├── case-studies/
+├── architecture/
+├── resume/
+└── portfolio/
 ```
 
-## Portfolio Roadmap
+## Confidentiality Note
 
-- [x] Create portfolio hub repository
-- [x] Add recruiter-facing README
-- [x] Add project case-study structure
-- [ ] Add finalized resume in Markdown
-- [ ] Add sanitized MikroTik RouterOS examples
-- [ ] Add network diagrams
-- [ ] Add GitHub profile README repository named `sgtallenusa-gth`
-- [ ] Add project screenshots or architecture images
-
-## Notes on Confidentiality
-
-All examples should be sanitized before publishing. Do not include customer names, public IPs, credentials, private keys, internal hostnames, or proprietary employer data.
+This repository intentionally avoids proprietary source code, customer data, internal company configurations, private addressing, secrets, credentials, or confidential operational procedures. Case studies are written as public-safe summaries focused on leadership, architecture, and business outcomes.
